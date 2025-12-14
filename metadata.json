@@ -1,0 +1,8 @@
+{
+  "name": "Babel v2",
+  "description": "A mobility operating system for the portal era. Manage identity, seamless travel, and spatial automations.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
